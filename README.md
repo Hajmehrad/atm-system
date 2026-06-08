@@ -20,12 +20,12 @@
 
 ### 🇬🇧 **English**
 - [README.en.md](README.en.md) - Main documentation
-- [QUICKSTART.en.md](QUICKSTART.en.md) - Quick start guide
+- [QUICKSTART.en.md](HOW_TO_RUN.en.md) - Quick start guide
 - [INSTALL.en.md](INSTALL.en.md) - Installation guide
 
 ### 🇮🇷 **فارسی (Persian)**
 - [README.md](README.md) - مستندات اصلی
-- [QUICKSTART.md](QUICKSTART.md) - راهنمای سریع
+- [QUICKSTART.md](HOW_TO_RUN.md) - راهنمای سریع
 - [INSTALL.md](INSTALL.md) - راهنمای نصب
 
 ---
