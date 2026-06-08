@@ -22,7 +22,7 @@
 - [README.en.md](README.en.md) - Main documentation
 - **[HOW_TO_RUN.en.md](HOW_TO_RUN.en.md)** - How to Run
 - [INSTALL.en.md](INSTALL.en.md) - Installation guide
-- 
+  
 ### 🇮🇷 **فارسی**
 - [README.md](README.md) - مستندات اصلی
 - **[HOW_TO_RUN.md](HOW_TO_RUN.md)** - نحوه اجرا
