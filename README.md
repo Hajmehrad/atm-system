@@ -1,36 +1,36 @@
-# ATM System 🏦
+# سیستم خودپرداز 🏦
 
-> A simple and efficient Automated Teller Machine (ATM) system
-
----
-
-## 📊 Badges
-
-[![PyPI version](https://badge.fury.io/py/atm-system.svg)](https://badge.fury.io/py/atm-system)
-[![PyPI - Python Version](https://img.shields.io/pypi/pyversions/atm-system)](https://pypi.org/project/atm-system/)
-[![PyPI - License](https://img.shields.io/pypi/l/atm-system)](https://github.com/Hajmehrad/atm-system/blob/main/LICENSE)
-[![Downloads](https://img.shields.io/pypi/dm/atm-system)](https://pypi.org/project/atm-system/)
-[![GitHub issues](https://img.shields.io/github/issues/Hajmehrad/atm-system)](https://github.com/Hajmehrad/atm-system/issues)
-[![GitHub stars](https://img.shields.io/github/stars/Hajmehrad/atm-system)](https://github.com/Hajmehrad/atm-system/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/Hajmehrad/atm-system)](https://github.com/Hajmehrad/atm-system/network)
+> یک سیستم خودپرداز (ATM) ساده و کارآمد برای مدیریت حساب‌های بانکی
 
 ---
 
-## 🌐 Language / 🇮🇷 زبان
+## 📊 نشان‌ها
 
-### 🇬🇧 **English**
-- [README.en.md](README.en.md) - Main documentation
-- [HOW_TO_RUN.en.md](HOW_TO_RUN.en.md) - Quick start guide
-- [INSTALL.en.md](INSTALL.en.md) - Installation guide
+[![نسخه PyPI](https://badge.fury.io/py/atm-system.svg)](https://badge.fury.io/py/atm-system)
+[![نسخه‌های Python](https://img.shields.io/pypi/pyversions/atm-system)](https://pypi.org/project/atm-system/)
+[![لایسنس](https://img.shields.io/pypi/l/atm-system)](https://github.com/Hajmehrad/atm-system/blob/main/LICENSE)
+[![دانلود](https://img.shields.io/pypi/dm/atm-system)](https://pypi.org/project/atm-system/)
+[![مشکلات](https://img.shields.io/github/issues/Hajmehrad/atm-system)](https://github.com/Hajmehrad/atm-system/issues)
+[![ستاره‌ها](https://img.shields.io/github/stars/Hajmehrad/atm-system)](https://github.com/Hajmehrad/atm-system/stargazers)
+[![فورک‌ها](https://img.shields.io/github/forks/Hajmehrad/atm-system)](https://github.com/Hajmehrad/atm-system/network)
 
-### 🇮🇷 **فارسی (Persian)**
+---
+
+## 🌐 زبان / Language
+
+### 🇬🇧 **انگلیسی**
+- [README.en.md](README.en.md) - مستندات اصلی
+- **[HOW_TO_RUN.en.md](HOW_TO_RUN.en.md)** - نحوه اجرا
+- [INSTALL.en.md](INSTALL.en.md) - راهنمای نصب
+
+### 🇮🇷 **فارسی**
 - [README.md](README.md) - مستندات اصلی
-- [HOW_TO_RUN.md](HOW_TO_RUN.md) - راهنمای سریع
+- **[HOW_TO_RUN.md](HOW_TO_RUN.md)** - نحوه اجرا
 - [INSTALL.md](INSTALL.md) - راهنمای نصب
 
 ---
 
-## 🚀 Quick Start
+## 🚀 شروع سریع
 
 ```bash
 pip install atm-system
@@ -39,36 +39,36 @@ atm-system
 
 ---
 
-## ✨ Features
+## ✨ ویژگی‌ها
 
-- ✅ Check Balance
-- 💰 Deposit Money
-- 🏦 Withdraw Money
-- 🔐 Change Password
-- 🔑 Authentication
-
----
-
-## 🖥️ Supported Systems
-
-- Windows
-- macOS
-- Linux
-
-**Requirement**: Python 3.6+
+- ✅ مشاهده موجودی
+- 💰 واریز پول
+- 🏦 برداشت پول
+- 🔐 تغییر رمز عبور
+- 🔑 احراز هویت
 
 ---
 
-## 📄 License
+## 🖥️ سیستم‌های پشتیبانی شده
 
-MIT License
+- ویندوز
+- مک
+- لینوکس
+
+**نیاز:** Python 3.6+
 
 ---
 
-## 👤 Author
+## 📄 لایسنس
+
+لایسنس MIT
+
+---
+
+## 👤 نویسنده
 
 Hajmehrad
 
-**GitHub**: https://github.com/Hajmehrad/atm-system
+**GitHub:** https://github.com/Hajmehrad/atm-system
 
-**PyPI**: https://pypi.org/project/atm-system/
+**PyPI:** https://pypi.org/project/atm-system/
