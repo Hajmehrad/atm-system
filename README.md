@@ -1,128 +1,62 @@
 # ATM System 🏦
 
-یک سیستم خودپرداز (ATM) ساده و کارآمد برای مدیریت حساب‌های بانکی.
+> A simple and efficient Automated Teller Machine (ATM) system
 
 ---
 
-## 🚀 نصب سریع (یک دستور)
+## 🇦-🇿 Language / 🇮-🇟 زبان
+
+### 🇦-🇿 **English**
+- [README.en.md](README.en.md) - Main documentation
+- [QUICKSTART.en.md](QUICKSTART.en.md) - Quick start guide
+- [INSTALL.en.md](INSTALL.en.md) - Installation guide
+
+### 🇮-🇟 **فارسی (Persian)**
+- [README.md](README.md) - مستندات اصلی
+- [QUICKSTART.md](QUICKSTART.md) - راهنمای سریع
+- [INSTALL.md](INSTALL.md) - راهنمای نصب
+
+---
+
+## 🚀 Quick Start
 
 ```bash
 pip install atm-system
-```
-
-**تمام!** ✅
-
----
-
-## ▶️ اجرا (یک دستور)
-
-```bash
 atm-system
 ```
 
-**برنامه شروع میشه!** 🎉
+---
+
+## ✨ Features
+
+- ✅ Check Balance
+- 💰 Deposit Money
+- 🏦 Withdraw Money
+- 🔐 Change Password
+- 🔑 Authentication
 
 ---
 
-## ✨ ویژگی‌ها
+## 🖥️ Supported Systems
 
-- ✅ **مشاهده موجودی** - نمایش موجودی با رمز
-- 💰 **واریز پول** - افزودن مبلغ
-- 🏦 **برداشت پول** - کسر مبلغ
-- 🔐 **تغییر رمز** - امنیت بیشتر
-- 🔑 **احراز هویت** - محافظت عملیات
+- Windows
+- macOS
+- Linux
 
----
-
-## 💻 استفاده در Python
-
-### ساده‌ترین روش
-
-```python
-from atm_system import atm_system
-
-atm_system()
-```
-
-### با مقادیر سفارشی
-
-```python
-from atm_system import atm_system
-
-atm_system(password="5678", balance=5000000)
-```
-
-### توابع جداگانه
-
-```python
-from atm_system import check_balance, deposit, withdraw, change_password
-
-# مشاهده موجودی
-balance = check_balance(balance=1000000, password="1234")
-
-# واریز
-balance = deposit(balance=1000000)
-
-# برداشت
-balance = withdraw(balance=1000000, password="1234")
-
-# تغییر رمز
-password = change_password(password="1234")
-```
+**Requirement**: Python 3.6+
 
 ---
 
-## ⚙️ تنظیمات پیش‌فرض
+## 📄 License
 
-- **رمز عبور**: `1234`
-- **موجودی**: `1,000,000` ریال
-
----
-
-## 🖥️ سیستم‌های پشتیبانی
-
-- ✅ Windows
-- ✅ macOS
-- ✅ Linux
-
-**نیاز**: Python 3.6+
+MIT License
 
 ---
 
-## 🆘 مشکل‌های رایج
-
-### `atm-system: command not found`
-
-```bash
-pip install --upgrade pip
-pip install --upgrade atm-system
-atm-system
-```
-
-### `pip: command not found`
-
-```bash
-python -m pip install atm-system
-python -m atm_system
-```
-
-### حذف و نصب دوباره
-
-```bash
-pip uninstall atm-system -y
-pip install atm-system
-```
-
----
-
-## 📄 لایسنس
-
-MIT License ✨
-
----
-
-## 👤 نویسنده
+## 👤 Author
 
 Hajmehrad
 
-**مشکلات یا پیشنهادات**: https://github.com/Hajmehrad/atm-system/issues
+**GitHub**: https://github.com/Hajmehrad/atm-system
+
+**PyPI**: https://pypi.org/project/atm-system/
